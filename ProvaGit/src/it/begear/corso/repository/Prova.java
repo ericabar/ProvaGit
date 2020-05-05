@@ -11,6 +11,8 @@ public class Prova {
 		
 			System.out.println("La mia prima modifica seria!");
 			System.out.println("Collegamento a remoto!");
+			
+			System.out.println("Prova aggiornamento a remoto!");
 
 	}
 
